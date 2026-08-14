@@ -74,4 +74,5 @@ ERA dropped this year and it traces back to one pitch. He reshaped his slider, s
 ### Bradley Rodríguez
 First one I did. Usage vs whiff rate, checking if he was underusing pitches that were actually working.
 
-[Whiff Rate vs Usage](bradley_rodriguez_pitch_analysis.ipynb)
+[Whiff Rate vs Usage](bradley_rodriguez_pitch_analysis.png)
+)
