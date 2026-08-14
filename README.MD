@@ -37,7 +37,7 @@ After 4 years of D3 baseball I'm trying to learn the analytics side to work in b
 * Before/after splits tied to mechanical, approach changes or hot/cold streaks
 
 ## Tools
-Python, PyBaseball, Pandas, Matplotlib, Jupyter Notebook, FanGraphs, Baseball Savant, TJStats
+Python, PyBaseball, Pandas, Matplotlib, Jupyter Notebook, FanGraphs, Baseball Savant, TJStats, VS Code
 
 ## Projects
 
