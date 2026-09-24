@@ -1,4 +1,4 @@
-310Analytics. Baseball analytics by Garon, former D3 pitcher. Statcast, FanGraphs, and TJStats breakdowns, mostly Padres.
+310Analytics. Baseball analytics by former D3 pitcher. Statcast, FanGraphs, and TJStats breakdowns, mostly Padres.
 
 Using Python, FanGraphs, and Statcast data to break down players and figure out what's actually behind their numbers.
 
