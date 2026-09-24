@@ -1,4 +1,4 @@
-# Baseball Case Study
+310Analytics. Baseball analytics by Garon, former D3 pitcher. Statcast, FanGraphs, and TJStats breakdowns, mostly Padres.
 
 Using Python, FanGraphs, and Statcast data to break down players and figure out what's actually behind their numbers.
 
@@ -41,42 +41,35 @@ Python, PyBaseball, Pandas, Matplotlib, Jupyter Notebook, FanGraphs, Baseball Sa
 
 ## Projects
 
-### [Padres Games 2 and 3 Starters](game2_game3_starter_data/README.md)
+### [Padres Games 2 and 3 Starters](padres_game2_game3_starters_2026/README.md)
 Who starts after King? Matched each starter's pitch mix against the Cubs, Phillies, Braves, and D-backs lineups since the break, then weighed it against recent form.
 
-![Best matchups by opponent](figures/padres_starter_matchups_2026.png)
+### [Ty France 2026: Breakout vs Career](ty_france_2026/README.md)
+140 wRC+ vs a 110 career mark, and the gains are all contact quality.
 
-### Jackson Merrill (Since All-Star Break, 2026)
-Since the break, Merrill's been the best hitter on the Padres and arguably in the whole league. 99th percentile wRC+, 100th percentile xSLG and Barrel% against qualified outfielders. Providing what the Padres desperately need in a playoff push.
+### [Walker Buehler: Arsenal Change, 2024–2026](buehler_arsenal_change_2026/README.md)
+Rebuilt his pitch mix every year since 2024. Contact quality hasn't followed.
 
-![Merrill percentile chart](figures/merrill_post_asb_percentiles_2026.png)
+### [Jackson Merrill: Since the All-Star Break](merrill_post_asb_2026/README.md)
+99th percentile wRC+, 100th percentile xSLG and Barrel% against qualified outfielders since the break.
 
-### Casey Mize: Padres Debut Breakdown (2026)
-Debut looked bad on paper, 9.15 FIP across 3.1 innings, but the stuff was never the issue. Splitter graded 97 tjStuff+ that night, slider 105, both right in line with his season marks. The tell was pitch sequencing, he repeated the same pitch back to back 38.2% of the time, well above his 27.4% season rate, and Arizona sat on it and punished him. His slurve grades 100 tjStuff+ on the season, same tier as his fastball and slider, yet sits at just 5% usage, his most underleveraged pitch by far (.224 xwOBA, .283 xwOBACON). Sinker's the weak link at 94 tjStuff+, still getting 19% usage against RHH. Splitter's actually been his best swing-and-miss pitch all year, 39.2% chase rate and 32.8% whiff rate, both tops in his arsenal. Fix is simple: lean into the slider and slurve more, especially against righties.
+### [Casey Mize: Padres Debut Breakdown](mize_padres_debut_2026/README.md)
+Debut looked bad on paper, but the stuff held up. Pitch sequencing was the problem.
 
-![Casey Mize debut breakdown](figures/mize_padres_debut_2026.png) ![Casey Mize tjStats debut chart](figures/mize_tjstats_debut_2026.png)
+### [Randy Vásquez: Underusing His Best Weapons](vasquez_pitch_mix_2026/README.md)
+His slider and changeup miss the most bats and get thrown the least.
 
-### Pete Crow-Armstrong vs Shohei Ohtani MVP Case (2026)
-If the season ended today, PCA should be NL MVP. He's out hitting Ohtani (155.7 wRC+ to 152.5), out running him (30 SB, +2.3 wSB vs -0.78), and his defense alone (+24 FRV, +22 OAA, +14 DRS over 1,011 innings) is worth about 2x what Ohtani's pitching has added. It's also worth more to a Cubs team that needs it than to a stacked Dodgers roster that makes the playoffs either way. PCA MVP. MVPETE
+### [Pete Crow-Armstrong vs Shohei Ohtani: MVP Case](pca_vs_ohtani_mvp_2026/README.md)
+Out hitting Ohtani, out running him, and his defense is worth about 2x what Ohtani's pitching has added.
 
-![PCA vs Ohtani MVP case](figures/pca_vs_ohtani_mvp_2026.png)
-
-### Fernando Tatis Jr. (2026)
+### [Fernando Tatis Jr.: Opening His Stance](tatis_open_stance_2026/README.md)
 Opened up his stance and has returned to elite play since June.
 
-![Tatis before/after chart](figures/tatis_open_stance_2026.png)
+### [Adrian Morejon: Best Lefty Reliever in Baseball](morejon_bullpen_2026/README.md)
+Top of the board in Stuff+, Pitching+, K-BB%, FIP-, xFIP-, and SIERA against every lefty reliever with 30+ IP.
 
-### Adrian Morejon (2026)
-Best left handed reliever in baseball this year by the numbers. Elite in Stuff+, Pitching+, K-BB%, FIP-, xFIP-, and SIERA against every qualified lefty reliever with 30+ IP. Pay the man!!
+### [Yuki Matsui: The Slider Takeover](matsui_slider_2026/README.md)
+ERA dropped this year and it traces back to one reshaped pitch: the slider.
 
-![Morejon percentile chart](figures/morejon_percentiles_2026.png)
-
-### Yuki Matsui (2026)
-ERA dropped this year and it traces back to one pitch. He reshaped his slider, spin axis shifted, throwing it way more, same arm slot and release point, just a complete different pitch with completely different results.
-
-![Matsui slider chart](figures/matsui_slider_2026.png)
-
-### Bradley Rodríguez
+### [Bradgley Rodríguez: Pitch Usage vs Whiff Rate](bradgley_rodriguez_pitch_usage_2026/README.md)
 First one I did. Usage vs whiff rate, checking if he was underusing pitches that were actually working.
-
-

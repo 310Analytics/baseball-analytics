@@ -1,0 +1,9 @@
+chart,panel,label,value,source
+debut_fixes,usage,Sinker,10.7,"Statcast 2026 usage (notebook section 4 output), typed in"
+debut_fixes,usage,Slurve,4.9,"Statcast 2026 usage (notebook section 4 output), typed in"
+debut_fixes,xwoba,Sinker,0.330,"xwOBA against, 2026, typed in"
+debut_fixes,xwoba,Slurve,0.292,"xwOBA against, 2026, typed in"
+debut_fixes,repeat,Full Season,27.4,"Same-pitch-repeat rate (notebook section 5 output), typed in"
+debut_fixes,repeat,Padres Debut,38.2,"Same-pitch-repeat rate on 8/5 debut, 21 of 55 (notebook section 5), typed in"
+debut_fixes,heart,Full Season,31.3,"Pitches down the middle %, typed in"
+debut_fixes,heart,Padres Debut,24.7,"Pitches down the middle % on 8/5 debut, typed in"

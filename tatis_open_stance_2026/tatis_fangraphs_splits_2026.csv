@@ -1,0 +1,9 @@
+stat,before_june1,since_june1,league_avg,is_plus_stat,source
+wRC+,89.5,135.6,100,True,"FanGraphs split before/after 6/1/26, typed in"
+ISO+,32.2,122.1,100,True,"FanGraphs split before/after 6/1/26, typed in"
+SLG+,78.3,120.6,100,True,"FanGraphs split before/after 6/1/26, typed in"
+Exit Velo,90.1,94.0,89.1,False,"FanGraphs split before/after 6/1/26, typed in"
+Barrel%,9.6,12.2,8.0,False,"FanGraphs split before/after 6/1/26, typed in"
+HardHit%,51.2,53.6,39.6,False,"FanGraphs split before/after 6/1/26, typed in"
+K%,21.6,17.2,21.2,False,"FanGraphs split before/after 6/1/26, typed in"
+BB%,9.8,8.6,8.8,False,"FanGraphs split before/after 6/1/26, typed in"
