@@ -44,32 +44,54 @@ Python, PyBaseball, Pandas, Matplotlib, Jupyter Notebook, FanGraphs, Baseball Sa
 ### [Padres Games 2 and 3 Starters](padres_game2_game3_starters_2026/README.md)
 Who starts after King? Matched each starter's pitch mix against the Cubs, Phillies, Braves, and D-backs lineups since the break, then weighed it against recent form.
 
+<img src="figures/padres_starter_matchups_2026.png" width="600" alt="Best matchups by opponent">
+
 ### [Ty France 2026: Breakout vs Career](ty_france_2026/README.md)
 140 wRC+ vs a 110 career mark, and the gains are all contact quality.
+
+<img src="figures/ty_france_vs_career_2026.png" width="600" alt="Ty France 2026 vs career">
 
 ### [Walker Buehler: Arsenal Change, 2024–2026](buehler_arsenal_change_2026/README.md)
 Rebuilt his pitch mix every year since 2024. Contact quality hasn't followed.
 
+<img src="figures/buehler_arsenal_change_2024_2026.png" width="600" alt="Walker Buehler arsenal change">
+
 ### [Jackson Merrill: Since the All-Star Break](merrill_post_asb_2026/README.md)
 99th percentile wRC+, 100th percentile xSLG and Barrel% against qualified outfielders since the break.
+
+<img src="figures/merrill_post_asb_percentiles_2026.png" width="600" alt="Merrill since the All-Star break vs qualified outfielders">
 
 ### [Casey Mize: Padres Debut Breakdown](mize_padres_debut_2026/README.md)
 Debut looked bad on paper, but the stuff held up. Pitch sequencing was the problem.
 
+<img src="figures/mize_padres_debut_2026.png" width="600" alt="What would make Casey Mize better">
+
 ### [Randy Vásquez: Underusing His Best Weapons](vasquez_pitch_mix_2026/README.md)
 His slider and changeup miss the most bats and get thrown the least.
+
+<img src="figures/vasquez_pitch_mix_2026.png" width="600" alt="Randy Vásquez pitch mix">
 
 ### [Pete Crow-Armstrong vs Shohei Ohtani: MVP Case](pca_vs_ohtani_mvp_2026/README.md)
 Out hitting Ohtani, out running him, and his defense is worth about 2x what Ohtani's pitching has added.
 
+<img src="figures/pca_vs_ohtani_mvp_2026.png" width="600" alt="PCA vs Ohtani MVP case">
+
 ### [Fernando Tatis Jr.: Opening His Stance](tatis_open_stance_2026/README.md)
 Opened up his stance and has returned to elite play since June.
+
+<img src="figures/tatis_open_stance_2026.png" width="600" alt="Tatis before vs after opening his stance">
 
 ### [Adrian Morejon: Best Lefty Reliever in Baseball](morejon_bullpen_2026/README.md)
 Top of the board in Stuff+, Pitching+, K-BB%, FIP-, xFIP-, and SIERA against every lefty reliever with 30+ IP.
 
+<img src="figures/morejon_percentiles_2026.png" width="600" alt="Morejon vs lefty relievers, full percentile profile">
+
 ### [Yuki Matsui: The Slider Takeover](matsui_slider_2026/README.md)
 ERA dropped this year and it traces back to one reshaped pitch: the slider.
 
+<img src="figures/matsui_slider_2026.png" width="600" alt="Yuki Matsui slider takeover">
+
 ### [Bradgley Rodríguez: Pitch Usage vs Whiff Rate](bradgley_rodriguez_pitch_usage_2026/README.md)
 First one I did. Usage vs whiff rate, checking if he was underusing pitches that were actually working.
+
+<img src="figures/bradgley_rodriguez_pitch_movement_2026.png" width="600" alt="Bradgley Rodríguez pitch movement">
