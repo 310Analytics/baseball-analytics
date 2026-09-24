@@ -41,6 +41,11 @@ Python, PyBaseball, Pandas, Matplotlib, Jupyter Notebook, FanGraphs, Baseball Sa
 
 ## Projects
 
+### Who Starts Games 2 and 3? Padres Playoff Rotation (2026)
+Matchup breakdown of Buehler, Mize, Ray, and Pivetta vs the Cubs, Phillies, Braves, and Diamondbacks.
+
+[Read the case study](game2_game3_starter_data/README.md)
+
 ### Jackson Merrill (Since All-Star Break, 2026)
 Since the break, Merrill's been the best hitter on the Padres and arguably in the whole league. 99th percentile wRC+, 100th percentile xSLG and Barrel% against qualified outfielders. Providing what the Padres desperately need in a playoff push.
 
