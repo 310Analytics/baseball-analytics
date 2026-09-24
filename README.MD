@@ -41,10 +41,10 @@ Python, PyBaseball, Pandas, Matplotlib, Jupyter Notebook, FanGraphs, Baseball Sa
 
 ## Projects
 
-### Who Starts Games 2 and 3? Padres Playoff Rotation (2026)
-Matchup breakdown of Buehler, Mize, Ray, and Pivetta vs the Cubs, Phillies, Braves, and Diamondbacks.
+### [Padres Games 2 and 3 Starters](game2_game3_starter_data/README.md)
+Who starts after King? Matched each starter's pitch mix against the Cubs, Phillies, Braves, and D-backs lineups since the break, then weighed it against recent form.
 
-[Read the case study](game2_game3_starter_data/README.md)
+![Best matchups by opponent](figures/padres_starter_matchups_2026.png)
 
 ### Jackson Merrill (Since All-Star Break, 2026)
 Since the break, Merrill's been the best hitter on the Padres and arguably in the whole league. 99th percentile wRC+, 100th percentile xSLG and Barrel% against qualified outfielders. Providing what the Padres desperately need in a playoff push.
