@@ -41,6 +41,11 @@ Python, PyBaseball, Pandas, Matplotlib, Jupyter Notebook, FanGraphs, Baseball Sa
 
 ## Projects
 
+### [Jack Gurevitch: Breakout Power Season](jack_gurevitch_2026/README.md)
+Cardinals 1B, 22, with 32 homers across three levels: top 10 in HR rate in the Midwest and Texas Leagues and No. 1 in Texas League HR/FB.
+
+<img src="figures/gurevitch_projection_2026.png" width="600" alt="Top 10 power in two leagues">
+
 ### [Who Pitches the 6th? Padres Playoff Bullpen](padres_bullpen_matchups_2026/README.md)
 Every Padres reliever scored against the Cubs, Phillies, Braves, and D-backs lineups on pitch quality and lineup fit since the break.
 

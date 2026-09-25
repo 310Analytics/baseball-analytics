@@ -1,0 +1,65 @@
+where,claim,shown,recomputed,source,group,match
+projection chart,Midwest League hitters,178,178,FanGraphs high_a_*,"Midwest League, 130+ PA",yes
+projection chart,Midwest League minimum PA,130,130,FanGraphs high_a_*,"Midwest League, 130+ PA",yes
+projection chart,Midwest League HR / PA / ISO,17/273/.264,17/273/.264,FanGraphs high_a_*,"Midwest League, 130+ PA",yes
+projection chart,Midwest League HR rate rank,6 of 178,6 of 178,FanGraphs high_a_*,"Midwest League, 130+ PA",yes
+projection chart,Midwest League ISO rank,12 of 178,12 of 178,FanGraphs high_a_*,"Midwest League, 130+ PA",yes
+projection chart,"Midwest League medians HR/PA, ISO",2.5%/.158,2.5%/.158,FanGraphs high_a_*,"Midwest League, 130+ PA",yes
+projection chart,Texas League hitters,154,154,FanGraphs aa_*,"Texas League, 130+ PA",yes
+projection chart,Texas League minimum PA,130,130,FanGraphs aa_*,"Texas League, 130+ PA",yes
+projection chart,Texas League HR / PA / ISO,9/141/.242,9/141/.242,FanGraphs aa_*,"Texas League, 130+ PA",yes
+projection chart,Texas League HR rate rank,8 of 154,8 of 154,FanGraphs aa_*,"Texas League, 130+ PA",yes
+projection chart,Texas League ISO rank,21 of 154,21 of 154,FanGraphs aa_*,"Texas League, 130+ PA",yes
+projection chart,"Texas League medians HR/PA, ISO",2.9%/.160,2.9%/.160,FanGraphs aa_*,"Texas League, 130+ PA",yes
+projection chart,Age 22 in both leagues,22/22,22/22,FanGraphs *_standard Age,him,yes
+projection chart,Cardinals,STL,STL,"FanGraphs Team (1B: MLB Stats API /people/813668, not in project files)",him,yes
+age_power chart,Texas League ISO rank,21 of 154,21 of 154,FanGraphs aa_*,"Texas League, 130+ PA",yes
+age_power chart,Share of Texas League hitters older,77%,77%,FanGraphs aa_standard Age,"Texas League, 130+ PA",yes
+age_power chart,"Texas League median age, ISO",24/.16,24/.16,FanGraphs aa_*,"Texas League, 130+ PA",yes
+batted_ball chart,Texas League HR/FB and rank,"47.4%, 1 of 154","47.4%, 1 of 154",FanGraphs aa_batted_ball,"Texas League, 130+ PA",yes
+batted_ball chart,Texas League LD% and rank,"28.6%, 15 of 154","28.6%, 15 of 154",FanGraphs aa_batted_ball,"Texas League, 130+ PA",yes
+batted_ball chart,"Texas League medians HR/FB, LD%",14%/24%,14%/24%,FanGraphs aa_batted_ball,"Texas League, 130+ PA",yes
+power_profile chart,SLG value / percentile,.566 / 97,.566 / 97,"FanGraphs high_a_* (pct rank, ties averaged)","Midwest League, 130+ PA",yes
+power_profile chart,HR rate value / percentile,6.2% / 97,6.2% / 97,"FanGraphs high_a_* (pct rank, ties averaged)","Midwest League, 130+ PA",yes
+power_profile chart,HR/FB value / percentile,33.3% / 98,33.3% / 98,"FanGraphs high_a_* (pct rank, ties averaged)","Midwest League, 130+ PA",yes
+power_profile chart,ISO value / percentile,.264 / 94,.264 / 94,"FanGraphs high_a_* (pct rank, ties averaged)","Midwest League, 130+ PA",yes
+power_profile chart,OPS value / percentile,.941 / 93,.941 / 93,"FanGraphs high_a_* (pct rank, ties averaged)","Midwest League, 130+ PA",yes
+power_profile chart,AVG value / percentile,.302 / 93,.302 / 93,"FanGraphs high_a_* (pct rank, ties averaged)","Midwest League, 130+ PA",yes
+power_profile chart,wRC+ value / percentile,135 / 89,135 / 89,"FanGraphs high_a_* (pct rank, ties averaged)","Midwest League, 130+ PA",yes
+line_drives chart,Hitters with 75+ BBE,479,479,tjstats_batter_batted_ball,"All Double-A leagues, 75+ BBE",yes
+line_drives chart,Teams in file (TL 10 + SL 8 + EL 12),30,30,tjstats_batter_batted_ball,file coverage,yes
+line_drives chart,Batted balls,78,78,tjstats_batter_batted_ball,"All Double-A leagues, 75+ BBE",yes
+line_drives chart,Pop-up rate and rank (fewest),"1.3%, 11 of 479","1.3%, 11 of 479",tjstats_batter_batted_ball,"All Double-A leagues, 75+ BBE",yes
+line_drives chart,LD rate and rank,"28.2%, 50 of 479","28.2%, 50 of 479",tjstats_batter_batted_ball,"All Double-A leagues, 75+ BBE",yes
+line_drives chart,"Medians pop-up, LD",7%/24%,7%/24%,tjstats_batter_batted_ball,"All Double-A leagues, 75+ BBE",yes
+exit_velo chart,Avg EV FB 93+ (BBE),98.7 (13),98.7 (13),gurevitch_pitches_2026_statsapi,his Florida State League batted balls,yes
+exit_velo chart,Avg EV FB under 93 (BBE),95.2 (26),95.2 (26),gurevitch_pitches_2026_statsapi,his Florida State League batted balls,yes
+exit_velo chart,Avg EV Breaking (BBE),93.0 (17),93.0 (17),gurevitch_pitches_2026_statsapi,his Florida State League batted balls,yes
+exit_velo chart,Avg EV Offspeed (BBE),92.3 (9),92.3 (9),gurevitch_pitches_2026_statsapi,his Florida State League batted balls,yes
+exit_velo chart,Batted balls with EV,65,65,gurevitch_pitches_2026_statsapi,his Florida State League batted balls,yes
+post,Age 22,22,22,gurevitch_tjstats_standard (Minors row),him,yes
+post,Three levels,3,3,gurevitch_pitches_2026_statsapi,"him, regular season",yes
+post,"32 HR, 96 RBI, 119 G",32/96/119,32/96/119,gurevitch_tjstats_standard (Minors row),"him, regular season",yes
+post,.283/.360/.542,.283/.360/.542,.283/.360/.542,gurevitch_tjstats_standard (Minors row),"him, regular season",yes
+post,"Peoria .302, 17 HR, 59 G",.302/17/59,.302/17/59,gurevitch_tjstats_standard (A+ row),him,yes
+post,6th in HR rate of 178 Midwest League hitters,6 of 178,6 of 178,FanGraphs high_a_*,"Midwest League, 130+ PA",yes
+post,12th in ISO,12 of 178,12 of 178,FanGraphs high_a_*,"Midwest League, 130+ PA",yes
+post,9 HR in 141 PA at Springfield,9/141,9/141,FanGraphs aa_standard,"Texas League, 130+ PA",yes
+post,8th in HR rate of 154 Texas League hitters,8 of 154,8 of 154,FanGraphs aa_*,"Texas League, 130+ PA",yes
+post,Younger than 77% of the league,77%,77%,FanGraphs aa_standard Age,"Texas League, 130+ PA",yes
+post,47.4% HR/FB led the Texas League,"47.4%, 1 of 154","47.4%, 1 of 154",FanGraphs aa_batted_ball,"Texas League, 130+ PA",yes
+post,4th in the Midwest League at 33.3% HR/FB,"33.3%, 4 of 178","33.3%, 4 of 178 (tied w/ 1)",FanGraphs high_a_batted_ball,"Midwest League, 130+ PA",NO
+post,"Pop-up 1.3%, 11th lowest of 479","1.3%, 11 of 479","1.3%, 11 of 479",tjstats_batter_batted_ball,"All Double-A leagues, 75+ BBE",yes
+post,Line drives 28.2%,28.2%,28.2%,tjstats_batter_batted_ball,"All Double-A leagues, 75+ BBE",yes
+post,Low-A is the only level with Statcast,A,A,gurevitch_tjstats_statcast,him,yes
+post,"94.9 mph avg EV, 115 max (TJStats)",94.9/115.0,94.9/115.0,gurevitch_tjstats_statcast (A row),his Florida State League batted balls,yes
+post,"94.9 mph avg EV, 115 max (Stats API)",94.9/115.0,94.9/115.0,gurevitch_pitches_2026_statsapi,his Florida State League batted balls,yes
+post,98.7 avg EV vs 93+ (every pitch type),98.7,98.7,gurevitch_pitches_2026_statsapi,his 13 Florida State League BBE on 93+ pitches,yes
+cross-check,A+ PA/HR/H/BB/SO: TJStats vs FanGraphs,273/17/73/24/75,273/17/73/24/75,TJStats vs FanGraphs,him,yes
+cross-check,A+ AVG/SLG: TJStats vs FanGraphs,0.302/0.566,0.302/0.566,TJStats vs FanGraphs,him,yes
+cross-check,AA PA/HR/H/BB/SO: TJStats vs FanGraphs,141/9/34/5/55,141/9/34/5/55,TJStats vs FanGraphs,him,yes
+cross-check,AA AVG/SLG: TJStats vs FanGraphs,0.258/0.500,0.258/0.500,TJStats vs FanGraphs,him,yes
+cross-check,AA BBE: TJ player table vs TJ league file,78,78,TJStats,him,yes
+cross-check,AA regular-season pitches: TJStats vs Stats API,532,532,TJStats vs Stats API,"him, regular season",yes
+cross-check,A+ regular-season pitches: TJStats vs Stats API,1015,1015,TJStats vs Stats API,"him, regular season",yes
+cross-check,A regular-season pitches: TJStats vs Stats API,511,511,TJStats vs Stats API,"him, regular season",yes

@@ -1,0 +1,27 @@
+group,stat,rank,of,tied_with,value,type,minimum_check,tested_minimums,his_sample
+"Texas League, 130+ PA",HR/FB,1,154,0,0.47368421,rate,holds at every tested minimum,"130,141",141 PA
+"Texas League, age 22 or younger, 130+ PA",HR/FB,1,36,0,0.47368421,rate,holds at every tested minimum,"130,141",141 PA
+"Texas League, age 22 or younger, 130+ PA",IFFB%,1,36,0,0.052631578,rate,holds at every tested minimum,"130,141",141 PA
+"Midwest League, age 22 or younger, 130+ PA",IFFB%,2,104,0,0.039215686,rate,holds at every tested minimum,"130,150,200,250",273 PA
+"Texas League, 130+ PA",IFFB%,2,154,0,0.052631578,rate,holds at every tested minimum,"130,141",141 PA
+"Texas League, age 22 or younger, 130+ PA",Cent% (highest),2,36,0,0.32051282,descriptive,holds at every tested minimum,"130,141",141 PA
+"Midwest League, 130+ PA",IFFB%,3,178,0,0.039215686,rate,holds at every tested minimum,"130,150,200,250",273 PA
+"Midwest League, age 22 or younger, 130+ PA",HR/FB,3,104,0,0.333333333,rate,holds at every tested minimum,"130,150,200,250",273 PA
+"Texas League, age 22 or younger, 130+ PA",LD%,3,36,0,0.285714285,rate,holds at every tested minimum,"130,141",141 PA
+"Midwest League, 130+ PA",HR/FB,4,178,1,0.333333333,rate,holds at every tested minimum,"130,150,200,250",273 PA
+"Texas League, 130+ PA",Cent% (highest),4,154,0,0.32051282,descriptive,holds at every tested minimum,"130,141",141 PA
+"Texas League, age 22 or younger, 130+ PA",HR/PA,4,36,0,0.06382978723404255,rate,holds at every tested minimum,"130,141",141 PA
+"Texas League, age 22 or younger, 130+ PA",Oppo% (lowest),4,36,0,0.24358974,descriptive,holds at every tested minimum,"130,141",141 PA
+"Midwest League, age 22 or younger, 130+ PA",HR/PA,5,104,0,0.06227106227106227,rate,holds at every tested minimum,"130,150,200,250",273 PA
+"Midwest League, age 22 or younger, 130+ PA",SLG,5,104,0,0.566115702,rate,holds at every tested minimum,"130,150,200,250",273 PA
+"Midwest League, 130+ PA",HR/PA,6,178,0,0.06227106227106227,rate,holds at every tested minimum,"130,150,200,250",273 PA
+"Texas League, age 22 or younger, 130+ PA",FB% (lowest),6,36,0,0.246753246,descriptive,holds at every tested minimum,"130,141",141 PA
+"All Double-A leagues, 75+ BBE",Straight-away rate (highest),7,479,0,0.5128,descriptive,"top 10 only at min [75, 78] (rank by min: {50: 12, 60: 11, 75: 7, 78: 5})","50,60,75,78",78 bip
+"Midwest League, 130+ PA",SLG,7,178,0,0.566115702,rate,holds at every tested minimum,"130,150,200,250",273 PA
+"Midwest League, age 22 or younger, 130+ PA",AVG,7,104,0,0.301652892,rate,holds at every tested minimum,"130,150,200,250",273 PA
+"Midwest League, age 22 or younger, 130+ PA",OPS,7,104,0,0.941115702,rate,holds at every tested minimum,"130,150,200,250",273 PA
+"Midwest League, age 22 or younger, 130+ PA",ISO,8,104,0,0.26446281,rate,holds at every tested minimum,"130,150,200,250",273 PA
+"Texas League, 130+ PA",HR/PA,8,154,0,0.06382978723404255,rate,holds at every tested minimum,"130,141",141 PA
+"Texas League, age 22 or younger, 130+ PA",BABIP,8,36,0,0.36231884,rate,holds at every tested minimum,"130,141",141 PA
+"Texas League, age 22 or younger, 130+ PA",GB/FB (highest),8,36,0,1.894736842,descriptive,holds at every tested minimum,"130,141",141 PA
+"Texas League, age 22 or younger, 130+ PA",ISO,8,36,0,0.242424243,rate,holds at every tested minimum,"130,141",141 PA

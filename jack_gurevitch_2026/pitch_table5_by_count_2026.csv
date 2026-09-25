@@ -1,0 +1,13 @@
+level,count,PA,AVG,SLG,HR
+Low-A,Ahead,52,.355,.774,3
+Low-A,Even,40,.385,.692,2
+Low-A,Behind,36,.083,.167,1
+High-A,Ahead,86,.383,.800,7
+High-A,Even,106,.324,.578,7
+High-A,Behind,81,.212,.375,3
+Double-A,Ahead,31,.348,.913,4
+Double-A,Even,61,.283,.450,3
+Double-A,Behind,49,.184,.367,2
+Combined,Ahead,169,.368,.816,14
+Combined,Even,207,.323,.562,12
+Combined,Behind,166,.176,.327,6
