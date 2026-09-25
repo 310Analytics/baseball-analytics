@@ -14,9 +14,9 @@ Mize grades best vs the Cubs (.314) and Phillies (.316) thanks to his splitter. 
 
 Buehler doesn't top a single column, but the matchups don't tell the whole story. Since 8/20 he has a 3.83 xERA and 14.8% K-BB, among the best on the staff. He also has two rings and closed out the 2024 World Series. He will definitely get a start in game 3.
 
-How I see it:
-Game 1: King
-Game 2: Pivetta + Bullpen early
+How I see it:  
+Game 1: King  
+Game 2: Pivetta + Bullpen early  
 Game 3: Buehler and Ray in tandem + Bullpen early
 
 Either way, expect the bullpen early in games 2 and 3.

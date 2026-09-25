@@ -41,6 +41,11 @@ Python, PyBaseball, Pandas, Matplotlib, Jupyter Notebook, FanGraphs, Baseball Sa
 
 ## Projects
 
+### [Who Pitches the 6th? Padres Playoff Bullpen](padres_bullpen_matchups_2026/README.md)
+Every Padres reliever scored against the Cubs, Phillies, Braves, and D-backs lineups on pitch quality and lineup fit since the break.
+
+<img src="figures/padres_bullpen_matchups_2026.png" width="600" alt="Bullpen matchups by opponent">
+
 ### [Padres Games 2 and 3 Starters](padres_game2_game3_starters_2026/README.md)
 Who starts after King? Matched each starter's pitch mix against the Cubs, Phillies, Braves, and D-backs lineups since the break, then weighed it against recent form.
 
