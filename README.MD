@@ -41,6 +41,16 @@ Python, PyBaseball, Pandas, Matplotlib, Jupyter Notebook, FanGraphs, Baseball Sa
 
 ## Projects
 
+### [Padres vs Matthew Boyd: Wild Card Game 1 Lineup](padres_wc_game1_boyd_2026/README.md)
+Seven righties against a lefty who gave up 14 of his 15 homers to righties: how the Game 1 lineup has hit lefties and Boyd.
+
+<img src="figures/padres_game1_lineup_vs_lhp_2026.png" width="600" alt="Padres Game 1 lineup xwOBA vs LHP">
+
+### [Mason Miller and Adrián Morejón: Two Historic Relief Seasons](miller_morejon_2026/README.md)
+Miller and Morejón against every reliever season since 2016: Miller is top 3 in K%, whiff rate, xwOBA and FIP, and Morejón's 132 Pitching+ over 85 innings has no match since 2021.
+
+<img src="figures/miller_morejon_savant_2026.png" width="600" alt="2026 Savant percentiles for Mason Miller and Adrián Morejón">
+
 ### [Jack Gurevitch: Breakout Power Season](jack_gurevitch_2026/README.md)
 Cardinals 1B, 22, with 32 homers across three levels: top 10 in HR rate in the Midwest and Texas Leagues and No. 1 in Texas League HR/FB.
 

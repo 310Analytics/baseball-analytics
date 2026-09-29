@@ -1,0 +1,25 @@
+pitcher,stat,better,value,rank,tied_with,of,pool
+Mason Miller,K%,higher,48.1%,3,0,855,2016-2026
+Adrián Morejón,K%,higher,30.2%,173,0,855,2016-2026
+Mason Miller,K-BB%,higher,39.0%,7,0,855,2016-2026
+Adrián Morejón,K-BB%,higher,22.4%,154,0,855,2016-2026
+Mason Miller,xERA,lower,1.58,2,0,855,2016-2026
+Adrián Morejón,xERA,lower,2.30,34,0,855,2016-2026
+Mason Miller,FIP,lower,1.11,2,0,855,2016-2026
+Adrián Morejón,FIP,lower,2.37,70,0,855,2016-2026
+Mason Miller,xFIP,lower,1.48,3,0,855,2016-2026
+Adrián Morejón,xFIP,lower,2.62,45,0,855,2016-2026
+Mason Miller,SIERA,lower,1.45,4,0,855,2016-2026
+Adrián Morejón,SIERA,lower,2.54,71,0,855,2016-2026
+Mason Miller,WPA,higher,4.59,11,0,855,2016-2026
+Adrián Morejón,WPA,higher,3.26,56,0,855,2016-2026
+Mason Miller,gmLI,higher,1.89,26,0,855,2016-2026
+Adrián Morejón,gmLI,higher,1.82,49,0,855,2016-2026
+Mason Miller,IP,higher,69.0,296,11,855,2016-2026
+Adrián Morejón,IP,higher,85.0,12,4,855,2016-2026
+Mason Miller,HLD,higher,0,791,64,855,2016-2026
+Adrián Morejón,HLD,higher,28,40,12,855,2016-2026
+Mason Miller,Stuff+,higher,119,58,0,510,2021-2026
+Adrián Morejón,Stuff+,higher,129,10,0,510,2021-2026
+Mason Miller,Pitching+,higher,118,62,0,510,2021-2026
+Adrián Morejón,Pitching+,higher,132,3,0,510,2021-2026

@@ -1,0 +1,26 @@
+stat,rank,season,pitcher,team,value
+K%,1,2022,Edwin Díaz,NYM,50.2%
+K%,2,2017,Craig Kimbrel,BOS,49.6%
+K%,3,2026,Mason Miller,SDP,48.1%
+K%,4,2019,Josh Hader,MIL,47.8%
+K%,5,2018,Josh Hader,MIL,46.7%
+xERA,1,2016,Kenley Jansen,LAD,1.52
+xERA,2,2026,Mason Miller,SDP,1.58
+xERA,3,2016,Andrew Miller,- - -,1.66
+xERA,4,2016,Zack Britton,BAL,1.70
+xERA,5,2022,Edwin Díaz,NYM,1.70
+FIP,1,2022,Edwin Díaz,NYM,0.90
+FIP,2,2026,Mason Miller,SDP,1.11
+FIP,3,2019,Kirby Yates,SDP,1.30
+FIP,4,2017,Kenley Jansen,LAD,1.31
+FIP,5,2024,Cade Smith,CLE,1.40
+Pitching+,1,2021,Emmanuel Clase,CLE,138
+Pitching+,2,2022,Emmanuel Clase,CLE,133
+Pitching+,3,2026,Adrian Morejon,SDP,132
+Pitching+,4,2021,Jonathan Loáisiga,NYY,131
+Pitching+,5,2021,Liam Hendriks,CHW,130
+Stuff+,1,2021,Emmanuel Clase,CLE,141
+Stuff+,2,2025,Tyler Rogers,- - -,137
+Stuff+,3,2026,Tyler Rogers,TOR,137
+Stuff+,4,2022,Andrés Muñoz,SEA,135
+Stuff+,5,2022,Emmanuel Clase,CLE,134
